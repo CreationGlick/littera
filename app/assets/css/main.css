@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+}
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-sans: "Nunito", sans-serif;
+}
+
+html,
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+.bg-dark_blue {
+  background-color: #405484;
+}
+
+.text-dark_blue {
+  color: #405484;
+}
+
+.text-light_blue {
+  color: #5d7dc5;
+}
+
+.btn-start {
+  background-color: #4b8d59;
+  border-color: #4b8d59;
+}
+
+.btn-start:hover {
+  background-color: #81b18b;
+  border-color: #81b18b;
+}
+
+.btn-ghost-noborder {
+  border: none;
+}
+
+.btn-calendar {
+  background-color: #5d7dc5;
+  border-color: #5d7dc5;
+  color: white;
+}
+
+.btn-next-question {
+  background-color: #5d7dc5;
+  border-color: #5d7dc5;
+  color: white;
+}
+
+.btn-next-question:disabled {
+  background-color: #3f3f3f;
+  border-color: #3f3f3f;
+  color: rgb(126, 126, 126);
+}
+
+.badge-dark_blue {
+  background-color: #405484;
+  color: white;
+}
+
+.progress-dark_blue {
+  color: #405484;
+}
+
+.btn-letter {
+  background-color: #405484;
+  color: white;
+}

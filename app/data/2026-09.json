@@ -1,0 +1,816 @@
+{
+  "year": 2026,
+  "month": 9,
+  "days": {
+    "16": {
+      "questions": [
+        {
+          "question": "Triplé dans la littérature",
+          "answer": "T",
+          "description": "Trois T dans la littérature"
+        },
+        {
+          "question": "Quelle lettre est coincée entre deux doublettes dans une accommodation ?",
+          "answer": "O",
+          "description": "Les deux doublettes de l'accommodation sont le C et le M, il s'agit donc bien du O coincé entre les deux doublettes"
+        },
+        {
+          "question": "Phonétiquement, quelle lettre faut-il ajouter au Lilas pour obtenir une plante à bulbe ?",
+          "answer": "C",
+          "description": "Les liliacées sont des plantes à bulbe ou à rhizome comme la tulipe, le muguet ou le poireau"
+        },
+        {
+          "question": "Quelle lettre manque à l'endetement pour être orthographié correctement ?",
+          "answer": "T",
+          "description": "En effet, à \"endetement\", il manque un T pour le voir correctement orthographié (endettement)"
+        },
+        {
+          "question": "Dans l'ordre alphabétique, quelle est la première lettre à manquer dans un cardiofréquencemètre ?",
+          "answer": "B",
+          "description": "Un cardiofréquencemètre est un appareil de mesure permettant de mesurer la fréquence cardiaque"
+        },
+        {
+          "question": "Quelle consonne n'est pas doublé lorsque la couleur devient purpurine ?",
+          "answer": "N",
+          "description": "Les lettres qui ne sont pas doublées sont le I, le N et le E. Purpurin est un terme littéraire rappelant la couleur pourpre"
+        },
+        {
+          "question": "Quelle lettre faut-il ajouter à frais pour obtenir une collerette de dentelle portée au XVIe siècle ?",
+          "answer": "E",
+          "description": "La fraise est un fruit mais aussi une collerette de linon ou de dentelle empesée porté au XVIe et au XVIIe siècle "
+        },
+        {
+          "question": "C'est la moitié du Sahara",
+          "answer": "A",
+          "description": "Six lettres dans le Sahara, Trois A"
+        },
+        {
+          "question": "Présent autant de fois dans un remix que dans une compilation",
+          "answer": "M",
+          "description": "Un M dans le remix et dans la compilation"
+        },
+        {
+          "question": "Quelle est la première lettre du peintre autrichien nommé Gustav ayant peint \"Le Baiser\" en 1908 ?",
+          "answer": "K",
+          "description": "\"Le Baiser\" a été peint par Gustav Klimt en 1908"
+        }
+      ]
+    },
+    "17": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "Quelle lettre est doublée dans le nom du réalisateur de \"Le Voyage dans la Lune\" en 1902 ?",
+          "answer": "E",
+          "description": "\"Le Voyage dans la Lune\" sorti en 1902 par George Méliès"
+        },
+        {
+          "question": "Par quelle lettre faut-il remplacer le I du charroi pour obtenir une personne qui répare les charrettes ?",
+          "answer": "N",
+          "description": "Un charroi est un transport par chariot, un charron est la personne qui répare les chariots et les charrettes"
+        },
+        {
+          "question": "Quelle lettre coupe une suite de quatre voyelles dans l'ébrouement ?",
+          "answer": "M",
+          "description": "Le M coupe la suite O U E E, un ébrouement est une expiration forte et bruyante par le nez"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "Ni unique, ni majoritaire dans la copolymérisation",
+          "answer": "I",
+          "description": "Trois O, deux I et toutes les autres lettres sont uniques. La copolymérisation correspond à la synthèse d'une chaîne macromoléculaire"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "Quelle lettre est au centre d'une mixture ?",
+          "answer": "T",
+          "description": "Le T se trouve bien au centre de la mixture"
+        },
+        {
+          "question": "Phonétiquement, que faut-il ajouter à une COP pour obtenir une parcelle de bois ?",
+          "answer": "O",
+          "description": "Pour donner un copeau"
+        }
+      ]
+    },
+    "18": {
+      "questions": [
+        {
+          "question": "Quelle lettre entre L et O n'a jamais fait de camelote ?",
+          "answer": "N",
+          "description": "L - M - N - O, pas de N dans la camelote"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "Qui sonne le début et la fin du gong ?",
+          "answer": "G",
+          "description": "Le G commence et finit le mot gong"
+        },
+        {
+          "question": "À la même place chez la langouste et chez le chaton ?",
+          "answer": "O",
+          "description": "En cinquième position dans les deux mots"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "19": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "20": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "21": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "22": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "23": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "24": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "25": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "26": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "27": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "28": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "29": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    },
+    "30": {
+      "questions": [
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        },
+        {
+          "question": "nan",
+          "answer": "nan",
+          "description": "nan"
+        }
+      ]
+    }
+  }
+}
