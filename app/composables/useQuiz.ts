@@ -8,7 +8,7 @@ export interface QuizAnswer {
   isCorrect: boolean
 }
 
-const QUESTION_TIME = 10_000
+const QUESTION_TIME = 15_000
 
 export function useQuiz(questions: QuizQuestion[]) {
   const currentQuestionIndex = ref(0)

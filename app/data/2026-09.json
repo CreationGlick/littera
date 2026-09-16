@@ -50,7 +50,7 @@
           "description": "Un M dans le remix et dans la compilation"
         },
         {
-          "question": "Quelle est la première lettre du peintre autrichien nommé Gustav ayant peint \"Le Baiser\" en 1908 ?",
+          "question": "Quelle est la première lettre du nom du peintre autrichien nommé Gustav ayant peint \"Le Baiser\" en 1908 ?",
           "answer": "K",
           "description": "\"Le Baiser\" a été peint par Gustav Klimt en 1908"
         }
@@ -59,9 +59,9 @@
     "17": {
       "questions": [
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle lettre retrouve ses deux voisines d'alphabet dans une voiture ?",
+          "answer": "U",
+          "description": "Le U retrouve le T et le V, ses deux voisines d'alphabet, dans la voiture"
         },
         {
           "question": "Quelle lettre est doublée dans le nom du réalisateur de \"Le Voyage dans la Lune\" en 1902 ?",
@@ -79,9 +79,9 @@
           "description": "Le M coupe la suite O U E E, un ébrouement est une expiration forte et bruyante par le nez"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Sur un clavier d'ordinateur, quelle lettre ne se trouve pas sur la première ligne quand on trouve une poussière ?",
+          "answer": "S",
+          "description": "Le S est sur la deuxième ligne du clavier contrairement à toutes les autres lettres de la poussière"
         },
         {
           "question": "Ni unique, ni majoritaire dans la copolymérisation",
@@ -89,14 +89,14 @@
           "description": "Trois O, deux I et toutes les autres lettres sont uniques. La copolymérisation correspond à la synthèse d'une chaîne macromoléculaire"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Elle est dans l'air et dans l'azote",
+          "answer": "A",
+          "description": "Le A se trouve dans l'air et dans l'azote"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Présent sur la serviette, mais pas quand c'est estival",
+          "answer": "R",
+          "description": "Pas de R dans estival contrairement à la serviette"
         },
         {
           "question": "Quelle lettre est au centre d'une mixture ?",
@@ -143,9 +143,9 @@
           "description": "En cinquième position dans les deux mots"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle voyelle manque quand on voit un tyrannosaure ?",
+          "answer": "I",
+          "description": "Pas de I dans le tyrannosaure"
         },
         {
           "question": "nan",
