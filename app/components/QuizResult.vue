@@ -1,7 +1,8 @@
 <script setup lang="ts">
+import { ref } from 'vue'
 import type { QuizAnswer } from '~/composables/useQuiz'
 
-defineProps<{
+const props = defineProps<{
   score: number
   totalQuestions: number
   answers: QuizAnswer[]
@@ -12,10 +13,40 @@ const emit = defineEmits<{
   restart: []
 }>()
 
+const copied = ref(false)
+
 const formatTime = (milliseconds: number) => {
   return `${(milliseconds / 1000).toFixed(2)} s`
 }
+
+const copyResults = async () => {
+  const date = new Date().toLocaleDateString('fr-FR')
+
+  const results = [
+    `**Littera - ${date}**`,
+    `**Nombre de bonnes réponses - ${props.score} / ${props.totalQuestions}**`,
+    `Temps moyen - ${formatTime(props.averageResponseTime)}`,
+    '',
+    props.answers
+      .map(answer => answer.isCorrect ? '✅' : '❌')
+      .join(' '),
+  ].join('\n')
+
+  try {
+    await navigator.clipboard.writeText(results)
+
+    copied.value = true
+
+    setTimeout(() => {
+      copied.value = false
+    }, 2000)
+  }
+  catch (error) {
+    console.error('Impossible de copier les résultats', error)
+  }
+}
 </script>
+
 
 <template>
   <div class="flex flex-col gap-5 lg:flex-row lg:items-start lg:gap-10">
@@ -79,11 +110,18 @@ const formatTime = (milliseconds: number) => {
           </template>
         </p>
 
-        <NuxtLink to="/">
-          <button class="btn btn-calendar mt-4">
-            Retourner à l'accueil
+        <div class="flex flex-row mt-4 gap-4">
+          <button class="btn btn-start" @click="copyResults">
+            {{ copied ? 'Résultat copié' : 'Copier mon résultat' }}
           </button>
-        </NuxtLink>
+
+          <NuxtLink to="/">
+            <button class="btn btn-calendar">
+              Retourner à l'accueil
+            </button>
+          </NuxtLink>
+        </div>
+
       </div>
     </div>
 

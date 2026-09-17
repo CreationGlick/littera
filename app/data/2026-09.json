@@ -118,19 +118,19 @@
           "description": "L - M - N - O, pas de N dans la camelote"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Sur un clavier d'ordinateur, quelle lettre est sur la dernière ligne quand on va au bistro ?",
+          "answer": "B",
+          "description": "Le B est sur la dernière ligne du clavier"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Elle est au centre d'une fugue",
+          "answer": "G",
+          "description": "Le G est au centre de la fugue"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle consonne est la seule à ne pas toucher de A quand on lit un diagramme ?",
+          "answer": "D",
+          "description": "Le G, R et M touchent un A dans un diagramme"
         },
         {
           "question": "Qui sonne le début et la fin du gong ?",
@@ -148,28 +148,28 @@
           "description": "Pas de I dans le tyrannosaure"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle lettre ne touche aucune voyelle dans le nom du joueur de tennis français Jo-Wilfried ?",
+          "answer": "T",
+          "description": "Le T ne touche aucune voyelle dans le nom du joueur de tennis français Jo-Wilfried Tsonga"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle est la dernière lettre de l'oiseau caché dans l'hibiscus ?",
+          "answer": "S",
+          "description": "L'Ibis est un oiseau échassier à long cou et au bec recourbé "
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Sur Mars, mais pas sur Saturne",
+          "answer": "M",
+          "description": "Pas de M sur Saturne"
         }
       ]
     },
     "19": {
       "questions": [
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Elle s'ébruite sans avoir d'irrégularité",
+          "answer": "B",
+          "description": "Un B dans ébruite mais pas dans irrégularité"
         },
         {
           "question": "nan",

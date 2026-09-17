@@ -23,6 +23,12 @@ export default defineNuxtConfig({
       meta: [
         { name: 'description', content: '10 nouvelles lettres à trouver tous les jours' }
       ],
+      link: [
+        {
+          rel: 'icon',
+          href: '/favicon.ico',
+        },
+      ],
     },
     baseURL: '/littera'
   },

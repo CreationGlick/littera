@@ -177,11 +177,11 @@
 
                     <div>
                         <div class="mb-2 text-sm font-bold uppercase tracking-wider text-dark_blue">
-                            03 — 10 secondes pour répondre
+                            03 — 15 secondes pour répondre
                         </div>
 
                         <p class="leading-relaxed text-base-content/70">
-                            Attention, vous n'avez que 10 secondes pour répondre à chaque question. Dès lors qu'une
+                            Attention, vous n'avez que 15 secondes pour répondre à chaque question. Dès lors qu'une
                             réponse est sélectionnée, le temps s'arrête et le jeu vous indique si vous avez eu la bonne
                             réponse ou non.
                         </p>
