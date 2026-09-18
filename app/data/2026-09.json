@@ -172,49 +172,49 @@
           "description": "Un B dans ébruite mais pas dans irrégularité"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Il y retrouve ses deux voisines d'alphabet dans un hiéroglyphe",
+          "answer": "H",
+          "description": "Le H retrouve le G et le I dans un hiéroglyphe"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Il coupe trois voyelles chez le tahitien",
+          "answer": "T",
+          "description": "Tahiti est la plus grande île de la Polynésie française, archipel du sud de l'océan Pacifique."
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "En partant du début de l'alphabet, quelle lettre est la première à manquer dans une enclave ?",
+          "answer": "B",
+          "description": "Une enclave est un terrain ou territoire situé à l'intérieur d'un autre"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Phonétiquement, quelle lettre faut-il ajouter à la vitre pour obtenir plusieurs compositions translucides à base de verre colorées ?",
+          "answer": "O",
+          "description": "Les vitraux (VITRE - O) sont des compositions translucides faites de pièces de verre, en général colorées, assemblées à l'aide de plombs et d'une armature de fer ou à l'aide d'un ciment, et servant à clore une baie"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle lettre a glissé en plus dans la malladresse ?",
+          "answer": "L",
+          "description": "Un seul L dans la maladresse"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "C'est dans l'énoncé et dans l'exemple",
+          "answer": "E",
+          "description": "Le E est la seule lettre en commun dans l'énoncé et dans l'exemple"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "La moitié d'un film gnangnan",
+          "answer": "N",
+          "description": "Quatre N dans gnangnan, qui est un mot familier désignant quelque chose de mou ou sans intérêt"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "Quelle lettre se situe entre le début et la fin d'un craquage ?",
+          "answer": "D",
+          "description": "Le mot craquage commence par un C et finit par un E, le D est donc alphabétiquement entre le C et le E, soit le début et la fin du craquage"
         },
         {
-          "question": "nan",
-          "answer": "nan",
-          "description": "nan"
+          "question": "C'est cubique et pas monoclinique",
+          "answer": "B",
+          "description": "Un élément monoclinique se représente comme un système cristallin dont le réseau a pour éléments de symétrie un axe binaire, un plan de symétrie perpendiculaire et un centre de symétrie."
         }
       ]
     },
